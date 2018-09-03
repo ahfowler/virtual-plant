@@ -1,8 +1,7 @@
 <img align="right" src="http://i44.photobucket.com/albums/f50/ahfowle1/Screen%20Shot%202018-09-03%20at%201.59.32%20PM_zpskjk8kdrj.png">
+
 # Virtual Plant
 A minimalistic simulation of caring for your own personal, talking cactus.
-
----
 
 ## Description
 Have you always wanted a plant, but not sure if you have the green thumbs to keep it alive? 
@@ -22,18 +21,25 @@ Input the following code into your Terminal or Command Prompt:
 ```
 python3 virtual-plant.py
 ```
----
-## Screenshot 
-<p align="center">
-  <img src="http://i44.photobucket.com/albums/f50/ahfowle1/Screen%20Shot%202018-09-03%20at%201.59.32%20PM_zpsmkak9wwr.png">
-</p>
 
 ## Authors
 
 * **Azaria Fowler** - *Original Author* - fowler.azaria@gmail.com
 
-
 ## Acknowledgments
 
 * The plant ASCII art was created by [Birgit Nietsch](https://www.asciiart.eu/plants/cactus).
 
+## Miscellaneous 
+
+### Screenshot
+<p align="center">
+  <img src="http://i44.photobucket.com/albums/f50/ahfowle1/Screen%20Shot%202018-09-03%20at%201.59.32%20PM_zpsmkak9wwr.png">
+</p>
+
+### Proposed Features
+- [x] Automatically depleting life meters.
+- [ ] Creating and displaying gameplay timer.
+- [ ] Multiple levels: Easy, Medium, and Hard
+- [ ] Animations when watering, fertilizing, etc.
+- [ ] Plant's different responses when receiving care.

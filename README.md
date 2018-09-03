@@ -1,6 +1,5 @@
-
-# Virtual Plant
 <img align="right" src="http://i44.photobucket.com/albums/f50/ahfowle1/Screen%20Shot%202018-09-03%20at%201.59.32%20PM_zpskjk8kdrj.png">
+# Virtual Plant
 A minimalistic simulation of caring for your own personal, talking cactus.
 
 ---
@@ -26,7 +25,7 @@ python3 virtual-plant.py
 ---
 ## Screenshot 
 <p align="center">
-  <img width="460" height="300" src="http://i44.photobucket.com/albums/f50/ahfowle1/Screen%20Shot%202018-09-03%20at%201.59.32%20PM_zpsmkak9wwr.png">
+  <img src="http://i44.photobucket.com/albums/f50/ahfowle1/Screen%20Shot%202018-09-03%20at%201.59.32%20PM_zpsmkak9wwr.png">
 </p>
 
 ## Authors

@@ -4,7 +4,7 @@
 A minimalistic simulation of caring for your own personal, talking cactus.
 
 ## Description
-Have you always wanted a plant, but not sure if you have the green thumbs to keep it alive? 
+Have you always wanted a plant, but weren't sure if you have the green thumbs to keep it alive? 
 Then take the first step by owning your very own virtual cactus! You can give it water, sunlight, fertilizer, and love to help sustain its life meters.
 
 ## How to Play
